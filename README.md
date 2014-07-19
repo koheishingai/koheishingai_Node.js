@@ -16,5 +16,5 @@ Now writing.
 
 ## License
 
-Ruby on Rails is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+koheishingai - Node.js is released under the [MIT License](http://www.opensource.org/licenses/MIT).
 
